@@ -23,7 +23,7 @@ const getStats = (after, before) => {
     // since,
     after,
     before,
-    repo: "./../ocean",
+    repo: "./../monorepo",
     number: 100,
     includeMergeCommitFiles: true,
     fields: [

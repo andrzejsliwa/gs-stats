@@ -1,7 +1,9 @@
 {
   "license": "UNLICENSED",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "stats": "node index.js"
+  },
   "dependencies": {
     "better-console": "^1.0.1",
     "date-fns": "^2.28.0",
